@@ -1,1 +1,1 @@
-# K-Means
+# Self Organizing Map (SOM)
